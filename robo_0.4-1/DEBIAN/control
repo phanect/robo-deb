@@ -2,6 +2,6 @@ Package: robo
 Version: 0.4-1
 Section: base
 Priority: optional
-Architecture: i386
+Architecture: amd64
 Maintainer: Jumpei Ogawa <phanective@gmail.com>
 Description: Simple Go / YAML-based task runner for the team
