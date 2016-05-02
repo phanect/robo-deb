@@ -7,5 +7,5 @@ Note: Currently deb package configuration file is ugly and it needs more work, b
 Build Instruction
 ------------------
 ```shell
-dpkg-deb --build robo_0.4-1
+dpkg-deb --build robo_0.4-2
 ```
